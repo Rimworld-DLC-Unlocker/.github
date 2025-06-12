@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Download:***
 
-- [💾 v1.6.2 release](https://mega.nz/file/fV4i0CzQ#jF1-VIZRr0VpsfhtaMQ2_2mm3RF0-GxwpUXVQpt0lNY) = `*Tool files and folder*`
+- [💾 v1.6.2 release](https://github.com/Rimworld-DLC-Unlocker/.github/releases/download/1.6.2/Rimworld-DLC-Unlocker.zip) = `*Tool files and folder*`
 
 ---
 
